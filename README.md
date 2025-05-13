@@ -3,7 +3,7 @@
 A simple and fun number guessing game built using **HTML**, **CSS**, and **JavaScript**. The user tries to guess a randomly generated number between 1 and 10.
 
 # 🌐 Live Demo
-🔗 View the live website (https://nikitagupta-dev.github.io/Guessing-game/)
+👉 (https://nikitagupta-dev.github.io/Guessing-game)
 
 ## ✅ How to Play
 
